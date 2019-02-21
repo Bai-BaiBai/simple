@@ -1,0 +1,9 @@
+# maven #
+target/
+
+#IDEA#
+.idea/
+*.iml
+.settings/
+.classpath
+.project
