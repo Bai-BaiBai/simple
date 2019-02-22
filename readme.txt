@@ -1,2 +1,3 @@
 readme!
 append GPL
+test
